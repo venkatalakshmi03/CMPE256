@@ -8,10 +8,12 @@ Dataset - https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 **Rating Prediction**
 
-* Collaborative filtering
-* Latent factor methods
+* Collaborative filtering with Surprise library
+* Spark ALS
+* Deep Neural Network
 
 **Sentiment Analysis**
+
 * Bag of Words
 * TF-IDF
 * LSTM
